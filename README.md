@@ -1,5 +1,5 @@
 ### Hi there 👋
-Just another page cybersecurity enthusiast
+## Just another cybersecurity enthusiast
 <!--
 **Otojon/Otojon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-you can find me here
+# you can find me here =>
 <br><a href="https://tryhackme.com/p/Otojon"><img src="https://tryhackme-badges.s3.amazonaws.com/Otojon.png" alt="TryHackMe"></a> <br>
 <a style="margin-left: 20px;" href="https://www.linkedin.com/in/otojon-xudayarov-662833202/" target="_blank"><img width="40" src="linkedin.png"/></a> 
