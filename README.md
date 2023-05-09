@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Just another page security and CTF enthusiast
 <!--
 **Otojon/Otojon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a style="margin-left: 20px;" href="https://www.linkedin.com/in/otojon-xudayarov-662833202/" target="_blank"><img width="60" src="icons/linkedin.png"/></a> 
