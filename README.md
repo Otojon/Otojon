@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 you can find me here
- <img src="https://tryhackme-badges.s3.amazonaws.com/Otojon.png" alt="TryHackMe">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Otojon.png" alt="TryHackMe"><br>
 <a style="margin-left: 20px;" href="https://www.linkedin.com/in/otojon-xudayarov-662833202/" target="_blank"><img width="60" src="linkedin.png"/></a> 
