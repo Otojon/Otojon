@@ -1,5 +1,5 @@
 ### Hi there 👋
-Just another page security and CTF enthusiast
+Just another page cybersecurity enthusiast
 <!--
 **Otojon/Otojon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
