@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 you can find me here =>
 <a style="margin-left: 20px;" href="https://www.linkedin.com/in/otojon-xudayarov-662833202/" target="_blank"><img width="40" src="linkedin.png"/></a> 
-<br><a href="https://tryhackme.com/p/Otojon"><img src="https://bit.ly/3BhAbDG" alt="TryHackMe"> </a> <br>
+<a href="https://tryhackme.com/p/Otojon"><img src="https://bit.ly/3BhAbDG" alt="TryHackMe"> </a> <br>
 
