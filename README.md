@@ -1,5 +1,5 @@
 # Hi there 👋
-## Just another cybersecurity enthusiast here
+## Just another cybersecurity guy here
 <!--
 **Otojon/Otojon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
