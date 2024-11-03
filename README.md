@@ -1,5 +1,6 @@
-# Hi there 👋
-## Just another cybersecurity guy here
+### Hi there 👋
+#### Just another cybersecurity guy here, 
+<a style="margin-left: 20px;" href="https://www.linkedin.com/in/otojon/" target="_blank"><img width="15" src="linkedin.png"/></a> 
 <!--
 **Otojon/Otojon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a style="margin-left: 20px;" href="https://www.linkedin.com/in/otojon/" target="_blank"><img width="40" src="linkedin.png"/></a> 
