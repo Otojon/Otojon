@@ -15,6 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a style="margin-left: 20px;" href="https://www.linkedin.com/in/otojon/" target="_blank"><img width="40" src="linkedin.png"/></a> 
-<!--<a href="https://tryhackme.com/p/Otojon"><img src="https://bit.ly/3BhAbDG" alt="TryHackMe"> </a> <br> -->
-<img src="https://media.giphy.com/media/kFgzrTt798d2w/giphy.gif"> ^_^ 
-<img src="https://media.giphy.com/media/lW9XPLjNXyDDO/giphy.gif">
